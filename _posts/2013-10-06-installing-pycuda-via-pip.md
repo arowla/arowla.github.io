@@ -5,6 +5,7 @@ categories:
 - python
 - cuda
 - gpu
+- articles
 ---
 
 I'm currently configuring an Ubuntu server with an [NVidia Tesla](http://www.nvidia.com/object/tesla-supercomputing-solutions.html) GPU unit.
