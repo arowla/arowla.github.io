@@ -2,10 +2,11 @@
 layout: post
 title: Installing OpenGrok on Ubuntu (Java Target Version Error)
 categories:
+- articles
+tags:
 - opengrok
 - java
 - sysadmin
-- articles
 ---
 
 Earlier today, I installed Solr on top of OpenJDK 1.6, running Tomcat 6. That went just fine, but I ran into trouble later, when I tried to install [OpenGrok][1], which [requires JDK 1.7][2]. When I ran `ant`, I got this error:

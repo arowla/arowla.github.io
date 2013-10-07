@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Emulating Linux Middle Click Pasteboard in OSX Mountain Lion
+published: false
 categories:
+- articles
+tags:
 - blog
 - osx
 ---

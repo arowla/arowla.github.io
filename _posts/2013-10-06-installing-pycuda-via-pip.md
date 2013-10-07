@@ -2,11 +2,12 @@
 layout: post
 title: Installing PyCUDA on Ubuntu via pip
 categories:
+- articles
+tags:
+- sysadmin
 - python
 - cuda
 - gpu
-- articles
-- sysadmin
 ---
 
 I'm currently configuring an Ubuntu server with an [NVidia Tesla](http://www.nvidia.com/object/tesla-supercomputing-solutions.html) GPU unit.
