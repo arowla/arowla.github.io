@@ -19,10 +19,10 @@ owner:
   rdio:
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:   https://plus.google.com/116141593322614137236
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:  UA-44670130-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
