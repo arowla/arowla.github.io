@@ -6,6 +6,7 @@
 .bundle/
 .config
 .ruby-version
+.ruby-gemset
 .sass-cache
 .yardoc
 InstalledFiles
