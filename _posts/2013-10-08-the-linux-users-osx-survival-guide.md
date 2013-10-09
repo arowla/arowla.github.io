@@ -33,7 +33,7 @@ First, you need to set up the association between three-finger tap and middle cl
 
 Two-finger drag to select still has horrible performance in iTerm, however. Please tweet at me if you have an answer for that!
 
-### Three-Finger Tap to Open a Linux in a New Browser Tab
+### Three-Finger Tap to Open a New Browser Tab
 
 Surprise! This one got fixed as a side-effect of installing MiddleClick. You're welcome. :)
 
@@ -41,6 +41,7 @@ Surprise! This one got fixed as a side-effect of installing MiddleClick. You're 
 *I am writing this post about a month after resolving these issues, so please [let me know][5] if anything here didn't work out for you, and I will investigate my system settings further.*
 
 * * *
+
 *Thanks to my friend [Eric Mill][6] for the idea for the name of this post.*
 
 
