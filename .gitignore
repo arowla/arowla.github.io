@@ -17,6 +17,7 @@ coverage
 doc/
 gh-pages/
 lib/bundler/man
+node_modules/
 pkg/
 rdoc
 site/_site/
