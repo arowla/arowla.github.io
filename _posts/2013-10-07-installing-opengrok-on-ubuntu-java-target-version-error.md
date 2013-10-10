@@ -11,9 +11,9 @@ tags:
 
 Earlier today, I installed Solr on top of OpenJDK 1.6, running Tomcat 6. That went just fine, but I ran into trouble later, when I tried to install [OpenGrok][1], which [requires JDK 1.7][2]. When I ran `ant`, I got this error:
 
-> -do-compile:
-    [javac] Compiling 245 source files to /usr/local/src/OpenGrok/build/classes
-    [javac] javac: invalid target release: 1.7
+    -do-compile:
+        [javac] Compiling 245 source files to /usr/local/src/OpenGrok/build/classes
+        [javac] javac: invalid target release: 1.7
 
 This was strange, since at the suggestion of [this StackOverflow answer][3], I put this line *after my opening \<project\> tag of build.xml*
 
