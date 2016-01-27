@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xubuntu Keyboard Mod Essentials: CapsLock -> Extra ESC; Windows Key to Open Search/Apps"
+title: "Xubuntu Keyboard Mod Essentials: CapsLock -> Extra ESC; Windows Key -> XFCE Menu"
 categories:
 - articles
 tags:
