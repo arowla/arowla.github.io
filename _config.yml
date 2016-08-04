@@ -1,8 +1,13 @@
+# Permalinks
+permalink:	  pretty
+
+# Setup
 title:            Alison Rowland's Blog
-tagline:          civic hacking and biggish data
-description:      A blog about open-source software development in Python, Ruby, SQL, PostgreSQL, Javascript.
+tagline:          civic hacking and big-ish data
+description:      Open-source software development in Python, Ruby, SQL, PostgreSQL, Javascript.
+paginate: 1
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://your-site.com
+#url:              http://alisonrowland.com
 
 # Owner/author information
 owner:
@@ -20,6 +25,12 @@ owner:
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   google_plus:   https://plus.google.com/116141593322614137236
+
+# About/contact
+author:
+  name:              Alison Rowland
+  url:               https://twitter.com/arowla
+  email:             alisonrowland@gmail.com
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:  UA-44670130-1
@@ -40,9 +51,6 @@ future:      true
 pygments:    true
 markdown:    kramdown
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
 kramdown:
   auto_ids: true
   footnote_nr: 1
@@ -56,6 +64,23 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: class
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
