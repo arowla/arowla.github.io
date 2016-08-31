@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'jekyll'
 gem 'jekyll-minibundle'
+gem 'jekyll-paginate'
+gem 'jekyll-gist'
 gem 'coderay'
 gem 'rake'
 gem 'kramdown'
