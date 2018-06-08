@@ -1,6 +1,13 @@
-title:            Alison Rowland's Blog
-tagline:          civic hacking and biggish data
-description:      A blog about open-source software development in Python, Ruby, SQL, PostgreSQL, Javascript.
+# Permalinks
+permalink:	  pretty
+
+# Setup
+title:            blog ala arowla
+tagline:          civic hacking and big-ish data
+description:      Open-source software development in Python, PostgreSQL, Node.js, et al
+url:              http://alisonrowland.com
+baseurl:          /
+#
 #Comment out url when working locally to resolve base urls correctly
 #url:              http://your-site.com
 
